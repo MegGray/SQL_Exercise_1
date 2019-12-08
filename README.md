@@ -1,10 +1,6 @@
 # Data Bootcamp SQL Homework Assignment
 
-## Installation Instructions
-
-* Refer to the [installation guide](Installation.md) to install the necessary files.
-
-## Instructions
+## Assignment Instructions
 
 * 1a. Display the first and last names of all actors from the table `actor`.
 
