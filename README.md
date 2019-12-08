@@ -1,4 +1,4 @@
-# Data Bootcamp Homework Assignment
+# Data Bootcamp SQL Homework Assignment
 
 ## Installation Instructions
 
